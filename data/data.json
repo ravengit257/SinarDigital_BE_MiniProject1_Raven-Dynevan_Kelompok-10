@@ -1,0 +1,184 @@
+{
+  "movies": [
+    {
+      "title": "Frozen",
+      "rating": "PG",
+      "minAge": 7,
+      "gender": "female",
+      "genre": "Animation",
+      "description": "Anna dan Elsa menghadapi keajaiban es dan perjalanan emosional tentang keluarga dan keberanian.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg"
+    },
+    {
+      "title": "Moana",
+      "rating": "PG",
+      "minAge": 7,
+      "gender": "female",
+      "genre": "Animation / Adventure",
+      "description": "Moana berlayar melintasi samudera untuk menyelamatkan desanya dan menemukan jati dirinya.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/Moana_Teaser_Poster.jpg"
+    },
+    {
+      "title": "Barbie",
+      "rating": "PG-13",
+      "minAge": 13,
+      "gender": "female",
+      "genre": "Comedy / Fantasy",
+      "description": "Barbie memulai petualangan ke dunia nyata dalam kisah penuh humor dan kehidupan modern.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/yBvoDlzpKx9HRk2Pcp8gc0E6SYP.jpg"
+    },
+    {
+      "title": "The Hunger Games",
+      "rating": "PG-13",
+      "minAge": 13,
+      "gender": "female",
+      "genre": "Action / Sci-Fi",
+      "description": "Katniss Everdeen berjuang dalam kompetisi mematikan demi bertahan hidup.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Hunger_Games_cover.jpg"
+    },
+    {
+      "title": "Avengers",
+      "rating": "PG-13",
+      "minAge": 13,
+      "gender": "male",
+      "genre": "Action / Superhero",
+      "description": "Para superhero bersatu untuk melawan ancaman global dari Loki dan pasukan Chitauri.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg"
+    },
+    {
+      "title": "Iron Man",
+      "rating": "PG-13",
+      "minAge": 13,
+      "gender": "male",
+      "genre": "Action / Superhero",
+      "description": "Tony Stark menjadi Iron Man setelah penculikan yang mengubah hidupnya.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
+    },
+    {
+      "title": "Transformers",
+      "rating": "PG-13",
+      "minAge": 13,
+      "gender": "male",
+      "genre": "Action / Sci-Fi",
+      "description": "Pertarungan antara Autobots dan Decepticons untuk menyelamatkan Bumi.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/66/Transformers07.jpg"
+    },
+    {
+      "title": "John Wick",
+      "rating": "R",
+      "minAge": 17,
+      "gender": "male",
+      "genre": "Action / Thriller",
+      "description": "John Wick membalas dendam terhadap sindikat kriminal yang merenggut segalanya darinya.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg"
+    },
+    {
+      "title": "Zootopia",
+      "rating": "PG",
+      "minAge": 7,
+      "gender": "unisex",
+      "genre": "Animation / Comedy",
+      "description": "Dunia hewan antropomorfik penuh misteri yang mengharuskan officer Judy Hopps memecahkannya.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "rating": "PG",
+      "minAge": 10,
+      "gender": "unisex",
+      "genre": "Animation / Superhero",
+      "description": "Miles Morales bertemu Spider-Man dari berbagai dimensi dalam petualangan visual memukau.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg"
+    },
+    {
+      "title": "Inside Out",
+      "rating": "PG",
+      "minAge": 7,
+      "gender": "unisex",
+      "genre": "Animation / Family",
+      "description": "Kisah emosional tentang lima emosi utama yang mengatur pikiran seorang gadis kecil.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
+    },
+    {
+      "title": "Coco",
+      "rating": "PG",
+      "minAge": 7,
+      "gender": "unisex",
+      "genre": "Animation / Music",
+      "description": "Miguel melakukan perjalanan ke alam arwah untuk mengungkap kisah keluarganya.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "rating": "PG-13",
+      "minAge": 13,
+      "gender": "male",
+      "genre": "Action / Crime",
+      "description": "Batman menghadapi Joker dalam salah satu konflik paling legendaris dalam sejarah film.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    {
+      "title": "Wonder Woman",
+      "rating": "PG-13",
+      "minAge": 13,
+      "gender": "female",
+      "genre": "Action / Superhero",
+      "description": "Putri Amazon, Diana, menemukan kekuatannya saat menghadapi perang dunia.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg"
+    },
+    {
+      "title": "Mulan",
+      "rating": "PG-13",
+      "minAge": 12,
+      "gender": "female",
+      "genre": "Action / Adventure",
+      "description": "Seorang gadis muda menyamar sebagai prajurit untuk menyelamatkan keluarganya.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg"
+    },
+    {
+      "title": "Black Panther",
+      "rating": "PG-13",
+      "minAge": 13,
+      "gender": "male",
+      "genre": "Action / Superhero",
+      "description": "T'Challa menjadi Raja Wakanda dan melindungi negerinya dari ancaman baru.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/fYTKuov1bxZKrli6HoYSqzTPLgY.jpg"
+    },
+    {
+      "title": "Minions",
+      "rating": "PG",
+      "minAge": 7,
+      "gender": "unisex",
+      "genre": "Animation / Comedy",
+      "description": "Petualangan lucu para Minion sebelum bertemu dengan Gru.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/dr02BdCNAUPVU07aOodwPYv6HCf.jpg"
+    },
+    {
+      "title": "Toy Story 4",
+      "rating": "PG",
+      "minAge": 7,
+      "gender": "unisex",
+      "genre": "Animation / Adventure",
+      "description": "Woody dan Forky memulai perjalanan emosional menemukan arti menjadi mainan.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg"
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "rating": "PG",
+      "minAge": 10,
+      "gender": "unisex",
+      "genre": "Fantasy / Adventure",
+      "description": "Petualangan pertama Harry Potter memasuki dunia sihir Hogwarts.",
+      "poster": "https://www.themoviedb.org/t/p/w600_and_h900_face/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+    },
+    {
+      "title": "Jurassic World",
+      "rating": "PG-13",
+      "minAge": 13,
+      "gender": "male",
+      "genre": "Action / Sci-Fi",
+      "description": "Taman dinosaurus modern berubah kacau ketika Indominus rex melarikan diri.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/6e/Jurassic_World_poster.jpg"
+    }
+  ]
+}
